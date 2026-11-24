@@ -414,6 +414,11 @@ hash = "fbda79a507db8950e0cb1366bf6bab367b2fdb661781c79bee87706019874c5b"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
+metafile = true
+
+[[files]]
 file = "mods/mru.pw.toml"
 hash = "2909bb5f2f738538b35d359ee9d7accf5d10f90b737fa96b59d2c1e31a247e38"
 metafile = true
@@ -516,10 +521,6 @@ metafile = true
 file = "mods/simple-voice-chat.pw.toml"
 hash = "9e324cddedb5c8a25b577a4fcf23cb27e96ae4cb638b57854fac68dda294c20f"
 metafile = true
-
-[[files]]
-file = "mods/simplemodsync-neoforge-1.21.1-1.4.1.jar"
-hash = "454eacc618dfa768a90a7397dda591844c1b07a358d371bf38c554229faac876"
 
 [[files]]
 file = "mods/sodium.pw.toml"
