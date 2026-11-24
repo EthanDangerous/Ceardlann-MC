@@ -1,0 +1,13 @@
+name = "Create Utilities (Unofficial Port)"
+filename = "createutilities-0.3.7+mc1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ac28e0b6357aa568235774efa4cb7a20a67d9487"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8396855
+project-id = 1501231

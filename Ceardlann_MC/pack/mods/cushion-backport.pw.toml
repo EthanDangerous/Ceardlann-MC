@@ -1,0 +1,13 @@
+name = "Cushion Backport"
+filename = "cushionbackport-1.21.1-NeoForge-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "062dc3f0b4ad426db899f8f4312e067bf2605e33"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8423651
+project-id = 1601898

@@ -1,0 +1,12 @@
+name = "CeardlannMC"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "40030889e3497879e83959f1d41bdd9b44dc074b17b34cec0008859494cadb73"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.252"

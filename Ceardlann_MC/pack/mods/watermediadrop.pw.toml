@@ -1,0 +1,13 @@
+name = "WATERMeDIAdrop"
+filename = "watermedia-3.0.0.23.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a644ab079cc9ed19a62b181e0252be5a9a422166"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9304645
+project-id = 1762505

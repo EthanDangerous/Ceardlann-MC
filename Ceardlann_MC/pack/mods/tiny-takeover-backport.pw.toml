@@ -1,0 +1,13 @@
+name = "Tiny Takeover Backport"
+filename = "tiny_takeover_backport-neoforge-1.21.1-1.5.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "434f26b8910b6b3a7068b2d59fc31f5d71fa0652"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9043271
+project-id = 1589673
