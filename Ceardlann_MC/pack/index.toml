@@ -408,18 +408,13 @@ file = "mods/mielon's-the-sift-1.1.2-mc1.21.1-neo.jar"
 hash = "c711c2836243f759a3040b223aa6326aeed9cdeb67cbcafe924edd5fa4f937ae"
 
 [[files]]
-file = "mods/modernnetworking.pw.toml"
-hash = "313e5c2f01236914e2580746e8c25aa6c6a5a4e19d8991b96a3a1ff2c3122edb"
-metafile = true
-
-[[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "fbda79a507db8950e0cb1366bf6bab367b2fdb661781c79bee87706019874c5b"
 metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
+hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
 metafile = true
 
 [[files]]
@@ -556,8 +551,8 @@ hash = "82d6bc6db195ca40b8763656ee78a35098dbe1c61e23381281231119f9b76447"
 metafile = true
 
 [[files]]
-file = "mods/surveyor-neoforge.pw.toml"
-hash = "9b4a988b18904f687b943cc1531e351f35e56ef7222be838bff2cf73c9b2db71"
+file = "mods/surveyor.pw.toml"
+hash = "13848a9eb3c5fd091b52f78cfae4ace2c3cd0cb32a76d6f61c12435f47d82ed1"
 metafile = true
 
 [[files]]
