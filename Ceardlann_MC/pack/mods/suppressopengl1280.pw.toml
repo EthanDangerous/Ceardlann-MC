@@ -1,6 +1,6 @@
 name = "Suppress OpenGL Error 128(0-2)"
 filename = "suppress-OpenGL-1280-1.2.5.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
