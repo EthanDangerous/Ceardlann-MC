@@ -478,8 +478,9 @@ hash = "0660d69fb12a906793231ea44c259eb79deda2ae59c717edf9f4d219dea35d18"
 metafile = true
 
 [[files]]
-file = "mods/reimagined-intro-2.0.0.jar"
-hash = "04f405dbac723e58aec2e1234d1c02c2e8dd464755d5f035623237693196d55b"
+file = "mods/reimagined-intro.pw.toml"
+hash = "f4a5894c9dab770ae47e9e16cb1f9fda4ab210a39f36ae0855b39eb00d1ecacf"
+metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"

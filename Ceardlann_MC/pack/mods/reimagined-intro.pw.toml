@@ -1,0 +1,13 @@
+name = "Reimagined Intro v4"
+filename = "reimagined-intro-neoforge-1.21.1-4.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BsnF5g7E/versions/Umklzy0p/reimagined-intro-neoforge-1.21.1-4.0.0.jar"
+hash-format = "sha512"
+hash = "5c19a9685c09cde5c50ffa448ff64fb4ce0b15aba9aa0ad5a8818446101a2e5ef9765dc1ff8090cb44e652c1c912ee9dafae83475069cc50c92bf19b0c6800b2"
+
+[update]
+[update.modrinth]
+mod-id = "BsnF5g7E"
+version = "Umklzy0p"
