@@ -84,11 +84,6 @@ hash = "42ffb6f5835250003da6ca3667ff751709ea295faee43b49c365b0f6c1e8f4d8"
 metafile = true
 
 [[files]]
-file = "mods/copper-age-backport.pw.toml"
-hash = "49e6fb78f9c2ae725e2463fb9204110e3fb5efa66afee2dba24d5ee922b5f6bf"
-metafile = true
-
-[[files]]
 file = "mods/copycats.pw.toml"
 hash = "af68f400faa4564bfaa16509dedcb2dbafb8c3a0154d6e4e0b1443bcb4c6d536"
 metafile = true
@@ -131,15 +126,6 @@ metafile = true
 file = "mods/curios.pw.toml"
 hash = "c2121765fa3c0ec67eb205911cddd28db3ab08ad1c5d55336a9fd7b4fa88b626"
 metafile = true
-
-[[files]]
-file = "mods/cushion-backport.pw.toml"
-hash = "aea17969c72115f09e5b63ae6909e6b05211d853e320e77caf4178b61e79d19f"
-metafile = true
-
-[[files]]
-file = "mods/dappledforest-1.1.0-neoforge-1.21.1.jar"
-hash = "3c9bc3c357559e9d977d26d7ddf045df91c840824ccd1b94d3740b7f39918d89"
 
 [[files]]
 file = "mods/data-essence.pw.toml"
