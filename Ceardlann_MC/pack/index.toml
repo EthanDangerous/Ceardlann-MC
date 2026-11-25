@@ -587,13 +587,13 @@ hash = "0cca3b8902efba386b8883fba95f87f336b2dd85a69bc9230cdd8c7eaae999f3"
 metafile = true
 
 [[files]]
-file = "mods/watermediadrop-binaries.pw.toml"
-hash = "d957a9eac142b2a5cece113fa1018fcb034545d26dc2bffcabde5d77a827662e"
+file = "mods/watermedia-binaries.pw.toml"
+hash = "fc564964934fe492145069cd3f121b18a5d196bcdb31a835133b0562e3e41d0e"
 metafile = true
 
 [[files]]
-file = "mods/watermediadrop.pw.toml"
-hash = "08873299d62a1fd70639f6df1c7bfa82ade12a7a0c111b93b63bf667d2708f4b"
+file = "mods/watermedia.pw.toml"
+hash = "39c8018bf31fe764a68adddde89e556f5226ef116345a6f69ff3b79218ea7e6c"
 metafile = true
 
 [[files]]
