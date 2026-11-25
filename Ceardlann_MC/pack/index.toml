@@ -527,8 +527,9 @@ hash = "7def5310fc0e0a05419a690301a07c5348619295968f674fc0943a3b3f715da2"
 metafile = true
 
 [[files]]
-file = "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar"
-hash = "bddc71ecd4f074a101eb3785599d13c69e64025e1029aa0fd0a28fcf9bccf2ea"
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "6727704e22c27be46fc08859f94dd0061cecf27ed2a7451c5bc1a0bdf50edbe5"
+metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
