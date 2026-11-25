@@ -556,11 +556,6 @@ hash = "13848a9eb3c5fd091b52f78cfae4ace2c3cd0cb32a76d6f61c12435f47d82ed1"
 metafile = true
 
 [[files]]
-file = "mods/talk-balloons.pw.toml"
-hash = "eb49c7170ff721174cd99f90e2875a8f7c99d8e061a4a940c2a346d931a88d7a"
-metafile = true
-
-[[files]]
 file = "mods/tiny-takeover-backport.pw.toml"
 hash = "5e5dd7511ced4e2bc0ba474c40917b8442764acdc7bb7021dbbe00452b7d5429"
 metafile = true
