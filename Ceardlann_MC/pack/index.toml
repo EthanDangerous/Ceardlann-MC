@@ -409,11 +409,6 @@ hash = "cf98a93ea429786de97d9d7b70c72468909e0b9d1799def65b7c29c419c8d362"
 metafile = true
 
 [[files]]
-file = "mods/nethers-exoticism.pw.toml"
-hash = "848b594e4a3725ed899fb6469df5f307b06ff0730bc71d6c6fa6f41e394cc62b"
-metafile = true
-
-[[files]]
 file = "mods/nullscape.pw.toml"
 hash = "c183fb8843a6c04da0417e5d51c62b2def40b994f0e9f1176243877b104d88a8"
 metafile = true
