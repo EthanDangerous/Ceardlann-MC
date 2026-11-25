@@ -23,8 +23,8 @@ hash = "bab5e563745cc5de2b70d95706944a1daccdb00dd06c77a955d1455e7b1bb039"
 metafile = true
 
 [[files]]
-file = "mods/antique-atlas-4.pw.toml"
-hash = "4401cad35d2d03e6a6b67e673d6a6a624358f1e17803499ec4fb9b427719393e"
+file = "mods/antique-atlas-neoforge.pw.toml"
+hash = "1d9f932edfeff53e614ade58bdc8c225e2df0d9c4d375028ab0ac802dfe2285e"
 metafile = true
 
 [[files]]
@@ -524,8 +524,8 @@ hash = "82d6bc6db195ca40b8763656ee78a35098dbe1c61e23381281231119f9b76447"
 metafile = true
 
 [[files]]
-file = "mods/surveyor.pw.toml"
-hash = "13848a9eb3c5fd091b52f78cfae4ace2c3cd0cb32a76d6f61c12435f47d82ed1"
+file = "mods/surveyor-neoforge.pw.toml"
+hash = "9b4a988b18904f687b943cc1531e351f35e56ef7222be838bff2cf73c9b2db71"
 metafile = true
 
 [[files]]
