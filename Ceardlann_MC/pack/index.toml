@@ -444,6 +444,11 @@ hash = "aef91b49956d6a5ddb71b2b0b8b60fffb045de7af8ebd9ec8946b2d579ed8f4c"
 metafile = true
 
 [[files]]
+file = "mods/patpat.pw.toml"
+hash = "7d86d9256b8fb680f7a8f36e529050921830d411a09c7f93d3f0777783b60810"
+metafile = true
+
+[[files]]
 file = "mods/platform.pw.toml"
 hash = "529739eddc795f4dec97e0bbd1eda3f03112945e7686368e384dd8ea09d4e1d0"
 metafile = true
