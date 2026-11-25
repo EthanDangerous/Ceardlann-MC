@@ -490,7 +490,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-music-control.pw.toml"
-hash = "803086123e95b15db3384d9b47ba1c5b8656fdee10b1fa18f27b8beadccc73d0"
+hash = "a70fbfcbb470a7d89d9dabd825ddd12094570c1aca1f76355e5ed65ea34d2688"
 metafile = true
 
 [[files]]
