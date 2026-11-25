@@ -43,11 +43,6 @@ hash = "f8379a1f1af239f612e8c325ff38e76ab1b69c6e59d19b78acdffb92e8674f10"
 metafile = true
 
 [[files]]
-file = "mods/backported-spears.pw.toml"
-hash = "1e6ead2ed52f8acf4dc23ac9533433654c304c28eb6595da5835281f15749cc8"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "16431ebe23e08d1d98e28e51ad76b675f2a7ed8a79234b68cb9c122a768cae5f"
 metafile = true
@@ -227,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "d9ed9ac8e0db9db29078dafa22bc2d86ac702f10863ae7cb1d5245111c5ea17b"
+hash = "97347efd9e808841d72fe3599da8a11add8422e97f89ae1c85cdfc0acfa18f96"
 metafile = true
 
 [[files]]
@@ -424,7 +419,7 @@ metafile = true
 
 [[files]]
 file = "mods/my-nethers-delight.pw.toml"
-hash = "622f66a4a2c21655005b1b56af83361e7daae270d375d0d5bf38c8a1f78d40cf"
+hash = "cf98a93ea429786de97d9d7b70c72468909e0b9d1799def65b7c29c419c8d362"
 metafile = true
 
 [[files]]
