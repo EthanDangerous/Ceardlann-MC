@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/spatial-gui.json"
-hash = "3b8e1d9d5a1aca7906104219c0a1fa80dfc33f4e95201fed10c6682a2c6c609f"
+file = "config/embersatlas/client.json"
+hash = "548377a44274c074176b86fa2f1f74d4b89a3340583e93af75c53b481957c46c"
 
 [[files]]
 file = "mods/EMIProfessions-neoforge-1.21.1-1.0.3.jar"
@@ -330,6 +330,11 @@ hash = "c7de2d2c35f904509186ffb96095e9369f47c78175c149fe2c595c32707f874a"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "ebf0dae777cc19c354a662dc8144009dff7269b2d05624b4591fcb7de56fc14e"
+metafile = true
+
+[[files]]
 file = "mods/lendercataclysm.pw.toml"
 hash = "0f04f325e69159d49ef7ad0593d9fa2caaca3825bc519b3d54c253bfcb0ae435"
 metafile = true
@@ -386,6 +391,11 @@ hash = "c711c2836243f759a3040b223aa6326aeed9cdeb67cbcafe924edd5fa4f937ae"
 [[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "90f4fc80c300ba5add6ba3fc34a7e5dd8137b8c8150158859e11778f8e65281c"
+metafile = true
+
+[[files]]
+file = "mods/modular-backpacks.pw.toml"
+hash = "655982d211ae12ccd1253b48a97e8d2c69dc2d7401afcc62ea4340ff5c54612f"
 metafile = true
 
 [[files]]
@@ -506,11 +516,6 @@ metafile = true
 [[files]]
 file = "mods/sound.pw.toml"
 hash = "a3060b1d5a7b39e084cad66292d2258cc78d6e028b3e3d1a5925636cac5472c4"
-metafile = true
-
-[[files]]
-file = "mods/spatial-gui.pw.toml"
-hash = "9ab13755f86c554c6fcd75ded4cc3dbc9cb6132c35b8a53b9c2ed951fd730262"
 metafile = true
 
 [[files]]
