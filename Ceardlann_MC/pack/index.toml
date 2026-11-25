@@ -23,11 +23,6 @@ hash = "bab5e563745cc5de2b70d95706944a1daccdb00dd06c77a955d1455e7b1bb039"
 metafile = true
 
 [[files]]
-file = "mods/antique-atlas-neoforge.pw.toml"
-hash = "1d9f932edfeff53e614ade58bdc8c225e2df0d9c4d375028ab0ac802dfe2285e"
-metafile = true
-
-[[files]]
 file = "mods/archaion.pw.toml"
 hash = "1a9f2c8d93b08d17cdb143665fef4107a03410ff21394458c448eec796487511"
 metafile = true
@@ -145,6 +140,11 @@ metafile = true
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "a0a08557c2985af8f6c92adef8b654c8f8b239277c4bb8eb94810b22109cc351"
+metafile = true
+
+[[files]]
+file = "mods/embers-atlas.pw.toml"
+hash = "e924e9ae2dd247e1acbd5f570cc51c03e4e7ec2e8c25eab4d756c677573943fa"
 metafile = true
 
 [[files]]
@@ -521,11 +521,6 @@ metafile = true
 [[files]]
 file = "mods/suppressopengl1280.pw.toml"
 hash = "82d6bc6db195ca40b8763656ee78a35098dbe1c61e23381281231119f9b76447"
-metafile = true
-
-[[files]]
-file = "mods/surveyor-neoforge.pw.toml"
-hash = "9b4a988b18904f687b943cc1531e351f35e56ef7222be838bff2cf73c9b2db71"
 metafile = true
 
 [[files]]

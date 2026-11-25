@@ -1,0 +1,13 @@
+name = "Ember's Atlas"
+filename = "embersatlas-neoforge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7511f9485dd6fc5e01fb60f8a6cac5cf892a6926"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9702370
+project-id = 1815809
