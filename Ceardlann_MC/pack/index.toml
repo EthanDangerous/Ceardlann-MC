@@ -143,11 +143,6 @@ hash = "657a415947ae7c99600b9e76cfadd72edca3f67482e99de7c03528e2b0e4c6e5"
 metafile = true
 
 [[files]]
-file = "mods/distraction-free-recipes.pw.toml"
-hash = "559997348e6cf4020ca79d65cd05716b2d58ae6d138fae6b5681f358a90cb88d"
-metafile = true
-
-[[files]]
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "a0a08557c2985af8f6c92adef8b654c8f8b239277c4bb8eb94810b22109cc351"
 metafile = true
@@ -541,11 +536,6 @@ metafile = true
 [[files]]
 file = "mods/transmog.pw.toml"
 hash = "01ccb17ed5a6766b1b880428f708722e02ae55563771bd913b59479f23528613"
-metafile = true
-
-[[files]]
-file = "mods/txnilib.pw.toml"
-hash = "7d7deb14e956b71fe2f9c999acefdb5edbfc264d9c66e5e2fce7c90ee704d05a"
 metafile = true
 
 [[files]]
