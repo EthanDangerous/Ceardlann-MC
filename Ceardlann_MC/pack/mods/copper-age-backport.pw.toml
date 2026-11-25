@@ -1,13 +1,13 @@
 name = "Copper Age Backport"
-filename = "copperagebackport-neoforge-1.21.1-0.1.5.jar"
+filename = "copperagebackport-neoforge-1.21.1-0.1.5.1-pre.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "31528d61a3878443076e93e3687f8d321614f9c8"
+hash = "eabd4b4eaefe39913dd5d9ce9a38bab470d9a8b8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8988105
+file-id = 9051953
 project-id = 1386823
