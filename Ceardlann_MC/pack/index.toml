@@ -556,11 +556,6 @@ hash = "82d6bc6db195ca40b8763656ee78a35098dbe1c61e23381281231119f9b76447"
 metafile = true
 
 [[files]]
-file = "mods/surveyor-map-framework.pw.toml"
-hash = "9063a0a9ccc1f3e57479d4c20faa00ef26744162ae6cac214b8edf28cb2b692d"
-metafile = true
-
-[[files]]
 file = "mods/surveyor.pw.toml"
 hash = "13848a9eb3c5fd091b52f78cfae4ace2c3cd0cb32a76d6f61c12435f47d82ed1"
 metafile = true
